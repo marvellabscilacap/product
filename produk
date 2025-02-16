@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Marvel - Custom CNC Cutting</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .product {
+            background: white;
+            margin: 10px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background: #333;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Product Marvel - Custom CNC Cutting
+    </header>
+    <div class="container">
+        <h2>Produk Custom Cutting CNC</h2>
+        <p>Kami memproduksi berbagai produk hasil cutting CNC dengan material akrilik, kayu, MDF, dan logam.</p>
+        
+        <div class="product">
+            <h3>Cutting Akrilik</h3>
+            <p>Desain custom dengan ketelitian tinggi untuk berbagai kebutuhan.</p>
+        </div>
+        <div class="product">
+            <h3>Cutting Kayu & MDF</h3>
+            <p>Ukiran dan bentuk unik untuk dekorasi atau furnitur.</p>
+        </div>
+        <div class="product">
+            <h3>Cutting Logam</h3>
+            <p>Solusi presisi tinggi untuk komponen industri.</p>
+        </div>
+    </div>
+    <footer>
+        &copy; 2025 Product Marvel - CNC Cutting Services
+    </footer>
+</body>
+</html>
